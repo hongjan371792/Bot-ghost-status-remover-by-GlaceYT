@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["歡迎加入決勝戰隊FlowerGod","我只是個機器人，並不是管理員"];
 
 
 let currentIndex = 0;
